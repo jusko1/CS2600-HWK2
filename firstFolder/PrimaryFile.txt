@@ -1,0 +1,5 @@
+Hello, my name is Justin Ko and I am working on hw1.
+This is the first file I added to the project.
+
+This file comes before the others.
+Git is tracking my changes.
