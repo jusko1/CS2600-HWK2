@@ -1,4 +1,4 @@
-Hello, my name is Justin Ko and I am working on hw1.
+Hello, our names are Justin Ko and Jesse Chu and we are working on hw5 together.
 This is the first file I added to the project.
 
 This file comes before the others.
